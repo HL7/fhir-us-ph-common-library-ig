@@ -700,6 +700,15 @@
         </resource>
         <resource>
             <reference>
+                <reference value="ValueSet/lib-copy-us-ph-valueset-priority"/>
+                <display value="US Public Health ValueSet Priority"/>
+            </reference>
+            <name value="US Public Health ValueSet Priority"/>
+            <description value="This value set contains codes representing release priority for ValueSets."/>
+            <exampleBoolean value="false"/>
+        </resource>
+        <resource>
+            <reference>
                 <reference value="StructureDefinition/lib-copy-us-ph-supplemental-library"/>
                 <display value="US Public Health Supplemental Library"/>
             </reference>
